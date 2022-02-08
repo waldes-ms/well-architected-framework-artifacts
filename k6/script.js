@@ -7,9 +7,9 @@ import { Rate, Trend } from "k6/metrics";
 //
 // Either enter the FQDN/IP address of your external load balancer, or the FQDN/IP address of one of the web servers
 // Also, supply one of the bank customer's credentials
-const woodgroveBankUrl = "";
-const username = "";
-const password = "";
+const woodgroveBankUrl = "http://52.247.31.234/";
+const username = "dmelamed3244";
+const password = "(Pass@word)1234!";
 
 //
 // Setup custom metrics
